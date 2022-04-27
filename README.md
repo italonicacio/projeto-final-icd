@@ -1,7 +1,7 @@
 # Projeto Final de Introdução à Ciência de Dados
  
 ## Participantes:
-- Hebert Gomes Mendes
+- Herbert Gomes Mendes
 - Ítalo Nicácio dos Santos Gomes de Figueirêdo
 - Vinícius Vieri Bezerra de Lima
  
