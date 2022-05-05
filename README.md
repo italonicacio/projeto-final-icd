@@ -15,5 +15,7 @@
 - [Covid-19](https://covid.saude.gov.br/)
 - [Vacinação contra Covid-19](https://opendatasus.saude.gov.br/group/dados-do-coranavirus)
 
+Para baixar os dados de Covid-19 veja o tutorial [clicando aqui](data/README.md).
+
 
 
