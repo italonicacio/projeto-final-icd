@@ -18,7 +18,11 @@
 Para baixar os dados de Covid-19 veja o tutorial [clicando aqui](data/README.md).
 
 ## Observação:
-Vale ressaltar que, obviamente, no site oficial do saude.gov(dados do covid19) existe uma atualização de arquivos csv do coronavirus a cada mês.
+Vale ressaltar que, no site oficial do saude.gov(opendatasus) existe uma atualização de arquivos csv com uma frequência diária e com granulidade temporal também por dia.
+
+Referências: Classificação Brasileira de Ocupações (MTE), Tabela de Código de Municípios (IBGE), Cadastro Nacional de Estabelecimentos de Saúde (CNES).
+
+Área responsável: Coordenação-Geral do Programa Nacional de Imunizações (CGPNI/DEIDT/SVS/MS)
 
 
 
