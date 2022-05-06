@@ -18,7 +18,7 @@
 Para baixar os dados de Covid-19 veja o tutorial [clicando aqui](data/README.md).
 
 ## Observação:
-Ao que tudo indica, no site oficial do saude.gov(dados do covid19) existe uma atualização de arquivos csv a cada mês. 
+Vale ressaltar que, obviamente, no site oficial do saude.gov(dados do covid19) existe uma atualização de arquivos csv do coronavirus a cada mês.
 
 
 
