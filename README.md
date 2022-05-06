@@ -18,7 +18,7 @@
 Para baixar os dados de Covid-19 veja o tutorial [clicando aqui](data/README.md).
 
 ## Observação:
-Vale ressaltar que, no site oficial do saude.gov(opendatasus) existe uma atualização de arquivos csv com uma frequência diária e com granulidade temporal também por dia.
+Vale ressaltar que, no site oficial do saude.gov(opendatasus) existe uma atualização de arquivos csv com uma frequência diária e com granuralidade temporal também por dia.
 
 Referências: Classificação Brasileira de Ocupações (MTE), Tabela de Código de Municípios (IBGE), Cadastro Nacional de Estabelecimentos de Saúde (CNES).
 
