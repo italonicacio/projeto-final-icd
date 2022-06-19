@@ -5,7 +5,7 @@
 - Ítalo Nicácio dos Santos Gomes de Figueirêdo
 - Vinícius Vieri Bezerra de Lima
  
-## Perguntas:
+## Perguntas Finais(presentes apenas no relatório final, desconsiderar as presentes em outros arquivos):
  
 1. Levando em consideração o dataset usado, responda: Quais são os 5 jogos com mais avaliações positivas brutas? Quais são os 5 jogos com mais avaliações negativas brutas? Quais são os 5 jogos com mais avaliações positivas em realação às negativas?
 
