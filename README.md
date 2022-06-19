@@ -7,9 +7,15 @@
  
 ## Perguntas:
  
-1. Quais foram os 10 jogos mais vendidos, sua categoria e suas classificações positivas e negativas?
-2. Quais empresas possuem melhor classificação quanto ao total de jogos mais vendidos?
-3. Qual o intervalo médio de tempo de premiações entre os jogos mais premiados dentro da mesma empresa?
+1. Levando em consideração o dataset usado, responda;
+•Quais são os 5 jogos com mais avaliações positivas brutas?
+•Quais são os 5 jogos com mais avaliações negativas brutas?
+•Quais são os 5 jogos com mais avaliações positivas em realação às negativas?
+
+2. De acordo com o dataset, responda:
+Quais os 5 gêneros de jogos mais publicados e quais as empresas que mais publicam(publishers) jogos?
+
+4. Qual o intervalo médio de tempo de premiações entre os jogos mais premiados dentro da mesma empresa?
  
 ## Conjuntos de Dados:
 - [Steam Store Games](https://www.kaggle.com/nikdavis/steam-store-games?select=steam.csv)
