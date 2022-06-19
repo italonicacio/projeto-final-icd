@@ -7,13 +7,9 @@
  
 ## Perguntas:
  
-1. Levando em consideração o dataset usado, responda;
-•Quais são os 5 jogos com mais avaliações positivas brutas?
-•Quais são os 5 jogos com mais avaliações negativas brutas?
-•Quais são os 5 jogos com mais avaliações positivas em realação às negativas?
+1. Levando em consideração o dataset usado, responda: Quais são os 5 jogos com mais avaliações positivas brutas? Quais são os 5 jogos com mais avaliações negativas brutas? Quais são os 5 jogos com mais avaliações positivas em realação às negativas?
 
-2. De acordo com o dataset, responda:
-Quais os 5 gêneros de jogos mais publicados e quais as empresas que mais publicam(publishers) jogos?
+2. De acordo com o dataset, responda: Quais os 5 gêneros de jogos mais publicados e quais as empresas que mais publicam(publishers) jogos?
 
 4. Qual o intervalo médio de tempo de premiações entre os jogos mais premiados dentro da mesma empresa?
  
