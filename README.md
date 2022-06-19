@@ -11,7 +11,7 @@
 
 2. De acordo com o dataset, responda: Quais os 5 gêneros de jogos mais publicados e quais as empresas que mais publicam(publishers) jogos?
 
-4. Qual o intervalo médio de tempo de premiações entre os jogos mais premiados dentro da mesma empresa?
+4. É possível realizar o uso de kmeans em algum dos dados? é possível entender alguma coisa com isso? Em que preço de jogos as publishers costumam trabalhar?
  
 ## Conjuntos de Dados:
 - [Steam Store Games](https://www.kaggle.com/nikdavis/steam-store-games?select=steam.csv)
